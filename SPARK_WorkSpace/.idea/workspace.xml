@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56fed80a-a798-4195-a65c-aaff4a9f24f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X45SlUMxC1N4wIE9b2gdnfg2xs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/HUSTLE" />
+  </component>
+  <component name="RunManager" selected="Python.xml_tree_lib">
+    <configuration name="Alpha_Numeric_Digit_Lower_Upper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PracticeEveryDay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/PracticeEveryDay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/PracticeEveryDay/Alpha_Numeric_Digit_Lower_Upper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Find_Sting_Occurance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PracticeEveryDay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/PracticeEveryDay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/PracticeEveryDay/Find_Sting_Occurance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser_NSN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SPARK_Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser_NSN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PracticeEveryDay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_tree_lib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PracticeEveryDay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/xml_tree_lib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xml_tree_lib" />
+        <item itemvalue="Python.scrap" />
+        <item itemvalue="Python.Alpha_Numeric_Digit_Lower_Upper" />
+        <item itemvalue="Python.Find_Sting_Occurance" />
+        <item itemvalue="Python.parser_NSN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\eefhiio\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56fed80a-a798-4195-a65c-aaff4a9f24f0" name="Default Changelist" comment="" />
+      <created>1580292527613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580292527613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="813" height="466" key="DebuggerActiveHint" timestamp="1582609504218">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="813" height="466" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1582609504218" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1583134563638">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583134563638" />
+    <state width="1259" height="208" key="GridCell.Tab.-1.bottom" timestamp="1580348399847">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.-1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580348399847" />
+    <state width="1259" height="208" key="GridCell.Tab.-1.center" timestamp="1580348399846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.-1.center/0.0.1280.689@0.0.1280.689" timestamp="1580348399846" />
+    <state width="1259" height="208" key="GridCell.Tab.-1.left" timestamp="1580348399846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.-1.left/0.0.1280.689@0.0.1280.689" timestamp="1580348399846" />
+    <state width="1259" height="208" key="GridCell.Tab.-1.right" timestamp="1580348399846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.-1.right/0.0.1280.689@0.0.1280.689" timestamp="1580348399846" />
+    <state width="1259" height="144" key="GridCell.Tab.0.bottom" timestamp="1583130981657">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1583130981657" />
+    <state width="1259" height="144" key="GridCell.Tab.0.center" timestamp="1583130981657">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1583130981657" />
+    <state width="1259" height="144" key="GridCell.Tab.0.left" timestamp="1583130981657">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1583130981657" />
+    <state width="1259" height="144" key="GridCell.Tab.0.right" timestamp="1583130981657">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1583130981657" />
+    <state width="1259" height="197" key="GridCell.Tab.1.bottom" timestamp="1582776627172">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="197" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582776627172" />
+    <state width="1259" height="197" key="GridCell.Tab.1.center" timestamp="1582776627172">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="197" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1582776627172" />
+    <state width="1259" height="197" key="GridCell.Tab.1.left" timestamp="1582776627172">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="197" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1582776627172" />
+    <state width="1259" height="197" key="GridCell.Tab.1.right" timestamp="1582776627172">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="197" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1582776627172" />
+    <state width="648" height="348" key="XDebugger.FullValuePopup" timestamp="1580347568793">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="648" height="348" key="XDebugger.FullValuePopup/0.0.1280.689@0.0.1280.689" timestamp="1580347568793" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1582776294278">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1582776294278" />
+    <state x="373" y="244" key="svn.passwordDialog" timestamp="1583132037984">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="373" y="244" key="svn.passwordDialog/0.0.1280.689@0.0.1280.689" timestamp="1583132037984" />
+    <state x="471" y="250" key="svn.upgradeDialog" timestamp="1583132027309">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="471" y="250" key="svn.upgradeDialog/0.0.1280.689@0.0.1280.689" timestamp="1583132027309" />
+    <state x="378" y="211" key="svn4idea.checkout.options" timestamp="1583132024482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="378" y="211" key="svn4idea.checkout.options/0.0.1280.689@0.0.1280.689" timestamp="1583132024482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/friends-by-age.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/word-count-better.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/parser_NSN.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/parser_NSN.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/parser_NSN.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/friends-by-age.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/PracticeEveryDay/Find_Sting_Occurance.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
